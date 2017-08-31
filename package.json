@@ -1,0 +1,16 @@
+{
+  "name": "babe-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^7.0.0-alpha.20",
+    "babel-preset-env": "^1.6.0"
+  }
+}
